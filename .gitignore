@@ -1,0 +1,6 @@
+# Netbeans and IntelliJ files
+/nbproject
+*.ipr
+*.iws
+*.iml
+.idea
